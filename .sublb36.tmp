@@ -3,7 +3,7 @@
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
     <title>Code the Change Decal Homework 2</title>
     <link rel="stylesheet" href="style.css" type="text/css" />
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script> 
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script> 
     <script src="index.js"></script>
 </head>
 <body>
@@ -73,7 +73,7 @@
           <div class="spincar">
             <img id="wheel1" class="wheel" src="http://users.rescomp.berkeley.edu/~carinaboo/workshop/images/wheel.png"/>
             <img id="wheel2" class="wheel" src="http://users.rescomp.berkeley.edu/~carinaboo/workshop/images/wheel.png"/></div>
-            <span class="button" id="task5">Spin the wheels and drive</span>
+            <span class="button">Spin the wheels and drive</span>
             <a class="hint" href="http://stackoverflow.com/questions/14859322/css3-spin-animation">Hint</a>
         </div>
     </div>
